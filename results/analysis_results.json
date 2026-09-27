@@ -1,0 +1,1074 @@
+{
+  "cohort": {
+    "survey_n": 45,
+    "survey_by_level": {
+      "GR": 23,
+      "UG": 21,
+      "not reported": 1
+    },
+    "prior_llm (1=none,2=slight,3=very)": {
+      "1.0": 11,
+      "2.0": 27,
+      "3.0": 6
+    },
+    "prior_ml (1=none..4=extensive)": {
+      "1.0": 8,
+      "2.0": 16,
+      "3.0": 17,
+      "4.0": 3
+    },
+    "acad_level (1=junior,2=senior,3=master's,4=doctoral)": {
+      "1.0": 4,
+      "2.0": 17,
+      "3.0": 22,
+      "4.0": 1
+    },
+    "coursework_n": 49,
+    "coursework_by_level": {
+      "UG": 25,
+      "GR": 24
+    },
+    "prior_ml_by_level": {
+      "GR": {
+        "n": 23.0,
+        "mean": 2.7,
+        "median": 3.0
+      },
+      "UG": {
+        "n": 21.0,
+        "mean": 1.95,
+        "median": 2.0
+      }
+    }
+  },
+  "RQ1_core_items": [
+    {
+      "item": "core_1",
+      "label": "Understood how LLM-pipeline parts fit together",
+      "n": 44,
+      "mean": 2.93,
+      "sd": 0.25,
+      "median": 3.0,
+      "q1": 3.0,
+      "q3": 3.0,
+      "min": 2.0,
+      "max": 3.0,
+      "pct_agree": 93.2,
+      "pct_neutral": 6.8,
+      "pct_disagree": 0.0,
+      "median_ci": [
+        3.0,
+        3.0
+      ],
+      "mean_ci": [
+        2.840909,
+        3.0
+      ]
+    },
+    {
+      "item": "core_2",
+      "label": "Earlier topics prepared me logically",
+      "n": 44,
+      "mean": 2.91,
+      "sd": 0.29,
+      "median": 3.0,
+      "q1": 3.0,
+      "q3": 3.0,
+      "min": 2.0,
+      "max": 3.0,
+      "pct_agree": 90.9,
+      "pct_neutral": 9.1,
+      "pct_disagree": 0.0,
+      "median_ci": [
+        3.0,
+        3.0
+      ],
+      "mean_ci": [
+        2.818182,
+        2.977273
+      ]
+    },
+    {
+      "item": "core_3",
+      "label": "Clearer understanding of tokenization\u2026integration",
+      "n": 44,
+      "mean": 2.95,
+      "sd": 0.21,
+      "median": 3.0,
+      "q1": 3.0,
+      "q3": 3.0,
+      "min": 2.0,
+      "max": 3.0,
+      "pct_agree": 95.5,
+      "pct_neutral": 4.5,
+      "pct_disagree": 0.0,
+      "median_ci": [
+        3.0,
+        3.0
+      ],
+      "mean_ci": [
+        2.886364,
+        3.0
+      ]
+    },
+    {
+      "item": "core_4",
+      "label": "Confidence explaining GPT-style systems",
+      "n": 44,
+      "mean": 2.95,
+      "sd": 0.21,
+      "median": 3.0,
+      "q1": 3.0,
+      "q3": 3.0,
+      "min": 2.0,
+      "max": 3.0,
+      "pct_agree": 95.5,
+      "pct_neutral": 4.5,
+      "pct_disagree": 0.0,
+      "median_ci": [
+        3.0,
+        3.0
+      ],
+      "mean_ci": [
+        2.886364,
+        3.0
+      ]
+    },
+    {
+      "item": "core_5",
+      "label": "Confidence evaluating LLM behavior (not just using)",
+      "n": 44,
+      "mean": 2.89,
+      "sd": 0.32,
+      "median": 3.0,
+      "q1": 3.0,
+      "q3": 3.0,
+      "min": 2.0,
+      "max": 3.0,
+      "pct_agree": 88.6,
+      "pct_neutral": 11.4,
+      "pct_disagree": 0.0,
+      "median_ci": [
+        3.0,
+        3.0
+      ],
+      "mean_ci": [
+        2.795455,
+        2.977273
+      ]
+    },
+    {
+      "item": "core_6",
+      "label": "Pace appropriate for difficulty",
+      "n": 43,
+      "mean": 2.65,
+      "sd": 0.65,
+      "median": 3.0,
+      "q1": 2.5,
+      "q3": 3.0,
+      "min": 1.0,
+      "max": 3.0,
+      "pct_agree": 74.4,
+      "pct_neutral": 16.3,
+      "pct_disagree": 9.3,
+      "median_ci": [
+        3.0,
+        3.0
+      ],
+      "mean_ci": [
+        2.44186,
+        2.837209
+      ]
+    },
+    {
+      "item": "core_7",
+      "label": "Workload appropriate for 3-credit course",
+      "n": 44,
+      "mean": 2.77,
+      "sd": 0.48,
+      "median": 3.0,
+      "q1": 3.0,
+      "q3": 3.0,
+      "min": 1.0,
+      "max": 3.0,
+      "pct_agree": 79.5,
+      "pct_neutral": 18.2,
+      "pct_disagree": 2.3,
+      "median_ci": [
+        3.0,
+        3.0
+      ],
+      "mean_ci": [
+        2.613636,
+        2.909091
+      ]
+    },
+    {
+      "item": "core_8",
+      "label": "Quizzes/HW/project connected concepts",
+      "n": 44,
+      "mean": 2.89,
+      "sd": 0.32,
+      "median": 3.0,
+      "q1": 3.0,
+      "q3": 3.0,
+      "min": 2.0,
+      "max": 3.0,
+      "pct_agree": 88.6,
+      "pct_neutral": 11.4,
+      "pct_disagree": 0.0,
+      "median_ci": [
+        3.0,
+        3.0
+      ],
+      "mean_ci": [
+        2.795455,
+        2.977273
+      ]
+    },
+    {
+      "item": "core_9",
+      "label": "Live coding labs aided understanding",
+      "n": 44,
+      "mean": 2.82,
+      "sd": 0.39,
+      "median": 3.0,
+      "q1": 3.0,
+      "q3": 3.0,
+      "min": 2.0,
+      "max": 3.0,
+      "pct_agree": 81.8,
+      "pct_neutral": 18.2,
+      "pct_disagree": 0.0,
+      "median_ci": [
+        3.0,
+        3.0
+      ],
+      "mean_ci": [
+        2.704545,
+        2.931818
+      ]
+    },
+    {
+      "item": "core_10",
+      "label": "Expectations for my level were clear",
+      "n": 43,
+      "mean": 2.81,
+      "sd": 0.45,
+      "median": 3.0,
+      "q1": 3.0,
+      "q3": 3.0,
+      "min": 1.0,
+      "max": 3.0,
+      "pct_agree": 83.7,
+      "pct_neutral": 14.0,
+      "pct_disagree": 2.3,
+      "median_ci": [
+        3.0,
+        3.0
+      ],
+      "mean_ci": [
+        2.674419,
+        2.930233
+      ]
+    },
+    {
+      "item": "core_11",
+      "label": "Shared UG/grad format worked well",
+      "n": 44,
+      "mean": 2.77,
+      "sd": 0.52,
+      "median": 3.0,
+      "q1": 3.0,
+      "q3": 3.0,
+      "min": 1.0,
+      "max": 3.0,
+      "pct_agree": 81.8,
+      "pct_neutral": 13.6,
+      "pct_disagree": 4.5,
+      "median_ci": [
+        3.0,
+        3.0
+      ],
+      "mean_ci": [
+        2.613636,
+        2.909091
+      ]
+    }
+  ],
+  "RQ2_gains": [
+    {
+      "stage": "Representation",
+      "n": 43,
+      "before_median": 1.0,
+      "now_median": 3.0,
+      "before_mean": 1.19,
+      "now_mean": 2.91,
+      "mean_gain": 1.72,
+      "gain_ci_low": 1.56,
+      "gain_ci_high": 1.86,
+      "pct_rating_higher": 97.7,
+      "pct_no_change": 2.3,
+      "pct_rating_lower": 0.0,
+      "wilcoxon_p": 0.0,
+      "rank_biserial": 1.0
+    },
+    {
+      "stage": "Model internals",
+      "n": 42,
+      "before_median": 1.0,
+      "now_median": 3.0,
+      "before_mean": 1.17,
+      "now_mean": 2.67,
+      "mean_gain": 1.5,
+      "gain_ci_low": 1.33,
+      "gain_ci_high": 1.67,
+      "pct_rating_higher": 97.6,
+      "pct_no_change": 2.4,
+      "pct_rating_lower": 0.0,
+      "wilcoxon_p": 0.0,
+      "rank_biserial": 1.0
+    },
+    {
+      "stage": "Training & evaluation",
+      "n": 43,
+      "before_median": 1.0,
+      "now_median": 3.0,
+      "before_mean": 1.37,
+      "now_mean": 2.79,
+      "mean_gain": 1.42,
+      "gain_ci_low": 1.21,
+      "gain_ci_high": 1.6,
+      "pct_rating_higher": 90.7,
+      "pct_no_change": 9.3,
+      "pct_rating_lower": 0.0,
+      "wilcoxon_p": 0.0,
+      "rank_biserial": 1.0
+    },
+    {
+      "stage": "Adaptation",
+      "n": 42,
+      "before_median": 1.0,
+      "now_median": 3.0,
+      "before_mean": 1.12,
+      "now_mean": 2.69,
+      "mean_gain": 1.57,
+      "gain_ci_low": 1.43,
+      "gain_ci_high": 1.71,
+      "pct_rating_higher": 100.0,
+      "pct_no_change": 0.0,
+      "pct_rating_lower": 0.0,
+      "wilcoxon_p": 0.0,
+      "rank_biserial": 1.0
+    },
+    {
+      "stage": "System integration",
+      "n": 43,
+      "before_median": 1.0,
+      "now_median": 3.0,
+      "before_mean": 1.21,
+      "now_mean": 2.51,
+      "mean_gain": 1.3,
+      "gain_ci_low": 1.14,
+      "gain_ci_high": 1.47,
+      "pct_rating_higher": 95.3,
+      "pct_no_change": 4.7,
+      "pct_rating_lower": 0.0,
+      "wilcoxon_p": 0.0,
+      "rank_biserial": 1.0
+    }
+  ],
+  "RQ3_performance": [
+    {
+      "assessment": "quiz_introduction",
+      "label": "Quiz: introduction",
+      "n": 45,
+      "mean": 94.94,
+      "sd": 7.38,
+      "median": 100.0,
+      "q1": 88.888889,
+      "q3": 100.0,
+      "min": 72.222222,
+      "max": 100.0,
+      "pct_ge95": 62.2,
+      "pct_at_100": 62.2,
+      "median_ci": [
+        94.444444,
+        100.0
+      ]
+    },
+    {
+      "assessment": "quiz_representation",
+      "label": "Quiz: representation",
+      "n": 48,
+      "mean": 94.91,
+      "sd": 15.71,
+      "median": 100.0,
+      "q1": 100.0,
+      "q3": 100.0,
+      "min": 0.0,
+      "max": 100.0,
+      "pct_ge95": 79.2,
+      "pct_at_100": 79.2,
+      "median_ci": [
+        100.0,
+        100.0
+      ]
+    },
+    {
+      "assessment": "quiz_training",
+      "label": "Quiz: training & evaluation",
+      "n": 49,
+      "mean": 88.21,
+      "sd": 18.34,
+      "median": 88.888889,
+      "q1": 88.888889,
+      "q3": 100.0,
+      "min": 0.0,
+      "max": 100.0,
+      "pct_ge95": 49.0,
+      "pct_at_100": 49.0,
+      "median_ci": [
+        88.888889,
+        100.0
+      ]
+    },
+    {
+      "assessment": "quiz_adaptation",
+      "label": "Quiz: adaptation",
+      "n": 49,
+      "mean": 90.93,
+      "sd": 19.6,
+      "median": 100.0,
+      "q1": 88.888889,
+      "q3": 100.0,
+      "min": 0.0,
+      "max": 100.0,
+      "pct_ge95": 69.4,
+      "pct_at_100": 69.4,
+      "median_ci": [
+        100.0,
+        100.0
+      ]
+    },
+    {
+      "assessment": "hw1",
+      "label": "Homework 1",
+      "n": 49,
+      "mean": 95.67,
+      "sd": 7.3,
+      "median": 100.0,
+      "q1": 95.0,
+      "q3": 100.0,
+      "min": 71.0,
+      "max": 100.0,
+      "pct_ge95": 79.6,
+      "pct_at_100": 51.0,
+      "median_ci": [
+        98.0,
+        100.0
+      ]
+    },
+    {
+      "assessment": "hw2",
+      "label": "Homework 2",
+      "n": 49,
+      "mean": 93.47,
+      "sd": 14.64,
+      "median": 97.0,
+      "q1": 93.0,
+      "q3": 99.0,
+      "min": 0.0,
+      "max": 100.0,
+      "pct_ge95": 67.3,
+      "pct_at_100": 14.3,
+      "median_ci": [
+        95.0,
+        98.0
+      ]
+    },
+    {
+      "assessment": "hw3",
+      "label": "Homework 3",
+      "n": 49,
+      "mean": 92.47,
+      "sd": 19.81,
+      "median": 97.0,
+      "q1": 95.0,
+      "q3": 100.0,
+      "min": 0.0,
+      "max": 100.0,
+      "pct_ge95": 75.5,
+      "pct_at_100": 38.8,
+      "median_ci": [
+        96.0,
+        100.0
+      ]
+    },
+    {
+      "assessment": "milestone1",
+      "label": "Milestone 1",
+      "n": 49,
+      "mean": 90.12,
+      "sd": 5.73,
+      "median": 91.0,
+      "q1": 87.0,
+      "q3": 94.0,
+      "min": 70.0,
+      "max": 99.0,
+      "pct_ge95": 20.4,
+      "pct_at_100": 0.0,
+      "median_ci": [
+        90.0,
+        92.0
+      ]
+    },
+    {
+      "assessment": "milestone2",
+      "label": "Milestone 2",
+      "n": 49,
+      "mean": 95.86,
+      "sd": 5.4,
+      "median": 97.0,
+      "q1": 95.0,
+      "q3": 99.0,
+      "min": 68.0,
+      "max": 100.0,
+      "pct_ge95": 77.6,
+      "pct_at_100": 24.5,
+      "median_ci": [
+        95.0,
+        98.0
+      ]
+    },
+    {
+      "assessment": "milestone3",
+      "label": "Milestone 3",
+      "n": 49,
+      "mean": 97.53,
+      "sd": 3.54,
+      "median": 99.0,
+      "q1": 97.0,
+      "q3": 100.0,
+      "min": 86.0,
+      "max": 100.0,
+      "pct_ge95": 85.7,
+      "pct_at_100": 42.9,
+      "median_ci": [
+        98.0,
+        100.0
+      ]
+    },
+    {
+      "assessment": "final_exam",
+      "label": "Final exam",
+      "n": 48,
+      "mean": 91.68,
+      "sd": 10.16,
+      "median": 94.583333,
+      "q1": 86.458333,
+      "q3": 100.0,
+      "min": 50.0,
+      "max": 100.0,
+      "pct_ge95": 50.0,
+      "pct_at_100": 29.2,
+      "median_ci": [
+        92.5,
+        99.166667
+      ]
+    }
+  ],
+  "RQ4_perceptions": [
+    {
+      "item": "core_1",
+      "label": "Understood how LLM-pipeline parts fit together",
+      "ug_median": 3.0,
+      "gr_median": 3.0,
+      "cliffs_delta": 0.039,
+      "ci_low": -0.099,
+      "ci_high": 0.205,
+      "p_mannwhitney": 0.6282
+    },
+    {
+      "item": "core_2",
+      "label": "Earlier topics prepared me logically",
+      "ug_median": 3.0,
+      "gr_median": 3.0,
+      "cliffs_delta": -0.099,
+      "ci_low": -0.286,
+      "ci_high": 0.043,
+      "p_mannwhitney": 0.267577
+    },
+    {
+      "item": "core_3",
+      "label": "Clearer understanding of tokenization\u2026integration",
+      "ug_median": 3.0,
+      "gr_median": 3.0,
+      "cliffs_delta": 0.087,
+      "ci_low": 0.0,
+      "ci_high": 0.217,
+      "p_mannwhitney": 0.181953
+    },
+    {
+      "item": "core_4",
+      "label": "Confidence explaining GPT-style systems",
+      "ug_median": 3.0,
+      "gr_median": 3.0,
+      "cliffs_delta": -0.095,
+      "ci_low": -0.238,
+      "ci_high": 0.0,
+      "p_mannwhitney": 0.142925
+    },
+    {
+      "item": "core_5",
+      "label": "Confidence evaluating LLM behavior (not just using)",
+      "ug_median": 3.0,
+      "gr_median": 3.0,
+      "cliffs_delta": -0.056,
+      "ci_low": -0.242,
+      "ci_high": 0.126,
+      "p_mannwhitney": 0.578524
+    },
+    {
+      "item": "core_6",
+      "label": "Pace appropriate for difficulty",
+      "ug_median": 3.0,
+      "gr_median": 3.0,
+      "cliffs_delta": 0.03,
+      "ci_low": -0.241,
+      "ci_high": 0.298,
+      "p_mannwhitney": 0.835796
+    },
+    {
+      "item": "core_7",
+      "label": "Workload appropriate for 3-credit course",
+      "ug_median": 3.0,
+      "gr_median": 3.0,
+      "cliffs_delta": 0.106,
+      "ci_low": -0.122,
+      "ci_high": 0.344,
+      "p_mannwhitney": 0.401807
+    },
+    {
+      "item": "core_8",
+      "label": "Quizzes/HW/project connected concepts",
+      "ug_median": 3.0,
+      "gr_median": 3.0,
+      "cliffs_delta": 0.035,
+      "ci_low": -0.147,
+      "ci_high": 0.217,
+      "p_mannwhitney": 0.732447
+    },
+    {
+      "item": "core_9",
+      "label": "Live coding labs aided understanding",
+      "ug_median": 3.0,
+      "gr_median": 3.0,
+      "cliffs_delta": 0.075,
+      "ci_low": -0.155,
+      "ci_high": 0.3,
+      "p_mannwhitney": 0.538314
+    },
+    {
+      "item": "core_10",
+      "label": "Expectations for my level were clear",
+      "ug_median": 3.0,
+      "gr_median": 3.0,
+      "cliffs_delta": -0.152,
+      "ci_low": -0.381,
+      "ci_high": 0.078,
+      "p_mannwhitney": 0.190869
+    },
+    {
+      "item": "core_11",
+      "label": "Shared UG/grad format worked well",
+      "ug_median": 3.0,
+      "gr_median": 3.0,
+      "cliffs_delta": 0.087,
+      "ci_low": -0.145,
+      "ci_high": 0.308,
+      "p_mannwhitney": 0.472671
+    }
+  ],
+  "RQ4_performance_all": [
+    {
+      "assessment": "quiz_introduction",
+      "label": "Quiz: introduction",
+      "ug_n": 23,
+      "gr_n": 22,
+      "ug_median": 100.0,
+      "gr_median": 100.0,
+      "cliffs_delta": -0.09,
+      "ci_low": -0.39,
+      "ci_high": 0.21,
+      "p_mannwhitney": 0.535178
+    },
+    {
+      "assessment": "quiz_representation",
+      "label": "Quiz: representation",
+      "ug_n": 25,
+      "gr_n": 23,
+      "ug_median": 100.0,
+      "gr_median": 100.0,
+      "cliffs_delta": -0.21,
+      "ci_low": -0.44,
+      "ci_high": 0.01,
+      "p_mannwhitney": 0.080525
+    },
+    {
+      "assessment": "quiz_training",
+      "label": "Quiz: training & evaluation",
+      "ug_n": 25,
+      "gr_n": 24,
+      "ug_median": 88.9,
+      "gr_median": 100.0,
+      "cliffs_delta": -0.15,
+      "ci_low": -0.45,
+      "ci_high": 0.14,
+      "p_mannwhitney": 0.320751
+    },
+    {
+      "assessment": "quiz_adaptation",
+      "label": "Quiz: adaptation",
+      "ug_n": 25,
+      "gr_n": 24,
+      "ug_median": 100.0,
+      "gr_median": 100.0,
+      "cliffs_delta": -0.36,
+      "ci_low": -0.6,
+      "ci_high": -0.12,
+      "p_mannwhitney": 0.007454
+    },
+    {
+      "assessment": "hw1",
+      "label": "Homework 1",
+      "ug_n": 25,
+      "gr_n": 24,
+      "ug_median": 95.0,
+      "gr_median": 100.0,
+      "cliffs_delta": -0.66,
+      "ci_low": -0.85,
+      "ci_high": -0.42,
+      "p_mannwhitney": 2.4e-05
+    },
+    {
+      "assessment": "hw2",
+      "label": "Homework 2",
+      "ug_n": 25,
+      "gr_n": 24,
+      "ug_median": 96.0,
+      "gr_median": 98.0,
+      "cliffs_delta": -0.25,
+      "ci_low": -0.55,
+      "ci_high": 0.08,
+      "p_mannwhitney": 0.134161
+    },
+    {
+      "assessment": "hw3",
+      "label": "Homework 3",
+      "ug_n": 25,
+      "gr_n": 24,
+      "ug_median": 97.0,
+      "gr_median": 97.5,
+      "cliffs_delta": -0.03,
+      "ci_low": -0.35,
+      "ci_high": 0.29,
+      "p_mannwhitney": 0.852596
+    },
+    {
+      "assessment": "milestone1",
+      "label": "Milestone 1",
+      "ug_n": 25,
+      "gr_n": 24,
+      "ug_median": 91.0,
+      "gr_median": 92.0,
+      "cliffs_delta": -0.14,
+      "ci_low": -0.46,
+      "ci_high": 0.2,
+      "p_mannwhitney": 0.393046
+    },
+    {
+      "assessment": "milestone2",
+      "label": "Milestone 2",
+      "ug_n": 25,
+      "gr_n": 24,
+      "ug_median": 97.0,
+      "gr_median": 97.0,
+      "cliffs_delta": -0.05,
+      "ci_low": -0.38,
+      "ci_high": 0.28,
+      "p_mannwhitney": 0.761445
+    },
+    {
+      "assessment": "milestone3",
+      "label": "Milestone 3",
+      "ug_n": 25,
+      "gr_n": 24,
+      "ug_median": 98.0,
+      "gr_median": 100.0,
+      "cliffs_delta": -0.18,
+      "ci_low": -0.5,
+      "ci_high": 0.13,
+      "p_mannwhitney": 0.250583
+    },
+    {
+      "assessment": "final_exam",
+      "label": "Final exam",
+      "ug_n": 24,
+      "gr_n": 24,
+      "ug_median": 91.2,
+      "gr_median": 99.2,
+      "cliffs_delta": -0.47,
+      "ci_low": -0.74,
+      "ci_high": -0.15,
+      "p_mannwhitney": 0.005075
+    },
+    {
+      "assessment": "quiz_avg",
+      "label": "Quiz average",
+      "ug_n": 25,
+      "gr_n": 24,
+      "ug_median": 94.4,
+      "gr_median": 97.2,
+      "cliffs_delta": -0.33,
+      "ci_low": -0.62,
+      "ci_high": -0.01,
+      "p_mannwhitney": 0.045299
+    },
+    {
+      "assessment": "hw_avg",
+      "label": "Homework average",
+      "ug_n": 25,
+      "gr_n": 24,
+      "ug_median": 95.0,
+      "gr_median": 98.0,
+      "cliffs_delta": -0.43,
+      "ci_low": -0.71,
+      "ci_high": -0.13,
+      "p_mannwhitney": 0.009765
+    },
+    {
+      "assessment": "milestone_avg",
+      "label": "Milestone average",
+      "ug_n": 25,
+      "gr_n": 24,
+      "ug_median": 95.0,
+      "gr_median": 95.0,
+      "cliffs_delta": -0.07,
+      "ci_low": -0.41,
+      "ci_high": 0.28,
+      "p_mannwhitney": 0.703303
+    }
+  ],
+  "table7_confirmatory": [
+    {
+      "assessment": "hw1",
+      "label": "Homework 1",
+      "ug_n": 25,
+      "gr_n": 24,
+      "ug_median": 95.0,
+      "gr_median": 100.0,
+      "cliffs_delta": -0.66,
+      "ci_low": -0.85,
+      "ci_high": -0.42,
+      "p_mannwhitney": 2.4e-05,
+      "p_holm": 0.00012
+    },
+    {
+      "assessment": "final_exam",
+      "label": "Final exam",
+      "ug_n": 24,
+      "gr_n": 24,
+      "ug_median": 91.2,
+      "gr_median": 99.2,
+      "cliffs_delta": -0.47,
+      "ci_low": -0.74,
+      "ci_high": -0.15,
+      "p_mannwhitney": 0.005075,
+      "p_holm": 0.020299
+    },
+    {
+      "assessment": "hw_avg",
+      "label": "Homework average",
+      "ug_n": 25,
+      "gr_n": 24,
+      "ug_median": 95.0,
+      "gr_median": 98.0,
+      "cliffs_delta": -0.43,
+      "ci_low": -0.71,
+      "ci_high": -0.13,
+      "p_mannwhitney": 0.009765,
+      "p_holm": 0.022362
+    },
+    {
+      "assessment": "quiz_adaptation",
+      "label": "Quiz: adaptation",
+      "ug_n": 25,
+      "gr_n": 24,
+      "ug_median": 100.0,
+      "gr_median": 100.0,
+      "cliffs_delta": -0.36,
+      "ci_low": -0.6,
+      "ci_high": -0.12,
+      "p_mannwhitney": 0.007454,
+      "p_holm": 0.022362
+    },
+    {
+      "assessment": "milestone_avg",
+      "label": "Milestone average",
+      "ug_n": 25,
+      "gr_n": 24,
+      "ug_median": 95.0,
+      "gr_median": 95.0,
+      "cliffs_delta": -0.07,
+      "ci_low": -0.41,
+      "ci_high": 0.28,
+      "p_mannwhitney": 0.703303,
+      "p_holm": 0.703303
+    }
+  ],
+  "RQ4_differentiation_items": [
+    {
+      "item": "diff_1",
+      "label": "UG/grad expectation differences were appropriate",
+      "analyzed_group": "all",
+      "n": 44,
+      "pct_agree": 75.0,
+      "ug_median": 3.0,
+      "gr_median": 3.0,
+      "n_answered_outside_group": 0
+    },
+    {
+      "item": "diff_2",
+      "label": "Challenged appropriately for my level",
+      "analyzed_group": "all",
+      "n": 44,
+      "pct_agree": 88.6,
+      "ug_median": 3.0,
+      "gr_median": 3.0,
+      "n_answered_outside_group": 0
+    },
+    {
+      "item": "diff_3",
+      "label": "Misconception-repair activities helped (Pipeline Debugger)",
+      "analyzed_group": "all",
+      "n": 44,
+      "pct_agree": 84.1,
+      "ug_median": 3.0,
+      "gr_median": 3.0,
+      "n_answered_outside_group": 0
+    },
+    {
+      "item": "diff_4",
+      "label": "Still uncertain how some parts connect (negatively worded)",
+      "analyzed_group": "all",
+      "n": 44,
+      "pct_agree": 25.0,
+      "ug_median": 2.0,
+      "gr_median": 1.0,
+      "n_answered_outside_group": 0
+    },
+    {
+      "item": "diff_5",
+      "label": "Emphasis on building working systems (UG only)",
+      "analyzed_group": "UG",
+      "n": 21,
+      "pct_agree": 90.5,
+      "ug_median": 3.0,
+      "gr_median": 2.0,
+      "n_answered_outside_group": 7
+    },
+    {
+      "item": "diff_6",
+      "label": "Emphasis on literature/reproducibility (GR only)",
+      "analyzed_group": "GR",
+      "n": 23,
+      "pct_agree": 91.3,
+      "ug_median": 2.0,
+      "gr_median": 3.0,
+      "n_answered_outside_group": 4
+    }
+  ],
+  "reliability": [
+    {
+      "scale": "11 core course-experience items",
+      "n_complete": 42,
+      "k_items": 11,
+      "alpha": 0.7,
+      "alpha_ci_low": 0.49,
+      "alpha_ci_high": 0.79,
+      "omega_total": 0.72
+    },
+    {
+      "scale": "5 end-of-course ('now') knowledge ratings",
+      "n_complete": 41,
+      "k_items": 5,
+      "alpha": 0.67,
+      "alpha_ci_low": 0.43,
+      "alpha_ci_high": 0.79,
+      "omega_total": 0.68
+    },
+    {
+      "scale": "5 retrospective 'before' knowledge ratings",
+      "n_complete": 43,
+      "k_items": 5,
+      "alpha": 0.77,
+      "alpha_ci_low": 0.55,
+      "alpha_ci_high": 0.87,
+      "omega_total": 0.79
+    }
+  ],
+  "sensitivity_nonsubmission": [
+    {
+      "assessment": "Homework 1",
+      "delta_nonsubmission_zero": -0.66,
+      "delta_nonsubmission_missing": -0.66,
+      "abs_change": 0.0
+    },
+    {
+      "assessment": "Final exam",
+      "delta_nonsubmission_zero": -0.47,
+      "delta_nonsubmission_missing": -0.47,
+      "abs_change": 0.0
+    },
+    {
+      "assessment": "Homework average",
+      "delta_nonsubmission_zero": -0.43,
+      "delta_nonsubmission_missing": -0.4,
+      "abs_change": 0.03
+    },
+    {
+      "assessment": "Quiz: adaptation",
+      "delta_nonsubmission_zero": -0.36,
+      "delta_nonsubmission_missing": -0.34,
+      "abs_change": 0.03
+    },
+    {
+      "assessment": "Milestone average",
+      "delta_nonsubmission_zero": -0.07,
+      "delta_nonsubmission_missing": -0.07,
+      "abs_change": 0.0
+    },
+    {
+      "assessment": "Homework 1 (median / mean)",
+      "median_zero": 100.0,
+      "median_missing": 100.0,
+      "mean_zero": 95.7,
+      "mean_missing": 95.7
+    },
+    {
+      "assessment": "Homework 2 (median / mean)",
+      "median_zero": 97.0,
+      "median_missing": 97.0,
+      "mean_zero": 93.5,
+      "mean_missing": 95.4
+    },
+    {
+      "assessment": "Homework 3 (median / mean)",
+      "median_zero": 97.0,
+      "median_missing": 98.0,
+      "mean_zero": 92.5,
+      "mean_missing": 96.4
+    }
+  ]
+}

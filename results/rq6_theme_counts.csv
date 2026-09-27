@@ -1,0 +1,28 @@
+question,n_responses,theme,respondents,definition
+most_helped,30,labs,20,Live-coding labs / in-class coding / hands-on in-class activities
+most_helped,30,instructor,6,"Instructor explanation, walkthroughs, demonstrations, teaching quality"
+most_helped,30,structure,5,"Content structure, sequencing, flow, foundation-building"
+most_helped,30,project,4,Course project / semester project
+most_helped,30,visualization,3,Diagrams / visual representations of the pipeline
+most_helped,30,homework,2,Homework / assignments
+most_challenging,26,attention_internals,7,Attention / QKV / embeddings / positional encoding / stride (model internals & representation)
+most_challenging,26,project,6,Course/final project or milestone
+most_challenging,26,labs_tooling,4,Keeping up with in-class labs; unfamiliar tools/libraries; an unclear in-class activity
+most_challenging,26,rag_agents,3,RAG and agents (system integration)
+most_challenging,26,homework,3,Homework difficulty or unclear/overwhelming instructions
+most_challenging,26,pace,2,Pace / time to absorb material
+most_challenging,26,interconnections,1,Many interacting concepts at once felt confusing
+most_challenging,26,ml_background,1,Lacking ML background; volume of ML concepts
+one_change,22,content_rebalance,5,"Add/rebalance content (other generative AI, more ML, more depth on specific topics)"
+one_change,22,clarity_instructions,5,Clearer / less open-ended homework & project instructions; consolidate turn-in requirements; library/setup support
+one_change,22,none_praise,4,No change / course well structured
+one_change,22,more_labs,3,More lab/hands-on/application time; dedicated lab portion
+one_change,22,logistics,1,"Logistics (e.g., use school lab machines)"
+one_change,22,separate_sections,1,Separate undergraduate and graduate sections (graduate found it too much review)
+one_change,22,group_activities,1,Group/in-class activities less useful
+one_change,22,project_pacing,1,"Spread project requirements out; shorter, more frequent deadlines"
+one_change,22,slides,1,Better explanation of slide diagrams for later review
+pipeline_debugger,9,dont_remember,5,Does not remember the activity / N/A
+pipeline_debugger,9,peer_collaboration,2,Value from working with / learning from other students
+pipeline_debugger,9,debugging,2,Debugging practice / instructor feedback
+pipeline_debugger,9,misconception_correction,1,Corrected a specific misconception

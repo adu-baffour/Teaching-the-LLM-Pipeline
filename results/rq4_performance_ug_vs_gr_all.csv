@@ -1,0 +1,15 @@
+assessment,label,ug_n,gr_n,ug_median,gr_median,cliffs_delta,ci_low,ci_high,p_mannwhitney
+quiz_introduction,Quiz: introduction,23,22,100.0,100.0,-0.09,-0.39,0.21,0.5351782002512356
+quiz_representation,Quiz: representation,25,23,100.0,100.0,-0.21,-0.44,0.01,0.08052463603194465
+quiz_training,Quiz: training & evaluation,25,24,88.9,100.0,-0.15,-0.45,0.14,0.32075088444069033
+quiz_adaptation,Quiz: adaptation,25,24,100.0,100.0,-0.36,-0.6,-0.12,0.007453889091658746
+hw1,Homework 1,25,24,95.0,100.0,-0.66,-0.85,-0.42,2.395345302115854e-05
+hw2,Homework 2,25,24,96.0,98.0,-0.25,-0.55,0.08,0.13416121647521326
+hw3,Homework 3,25,24,97.0,97.5,-0.03,-0.35,0.29,0.852595987978005
+milestone1,Milestone 1,25,24,91.0,92.0,-0.14,-0.46,0.2,0.39304620818644137
+milestone2,Milestone 2,25,24,97.0,97.0,-0.05,-0.38,0.28,0.7614451384921072
+milestone3,Milestone 3,25,24,98.0,100.0,-0.18,-0.5,0.13,0.2505832602445072
+final_exam,Final exam,24,24,91.2,99.2,-0.47,-0.74,-0.15,0.00507483595233636
+quiz_avg,Quiz average,25,24,94.4,97.2,-0.33,-0.62,-0.01,0.04529928719812239
+hw_avg,Homework average,25,24,95.0,98.0,-0.43,-0.71,-0.13,0.009765494442246173
+milestone_avg,Milestone average,25,24,95.0,95.0,-0.07,-0.41,0.28,0.7033029017730253

@@ -1,0 +1,385 @@
+{
+ "_about": "Reflexive thematic analysis: codebook, response-to-code assignments (audit trail), stage assignments used for Figure 5, and exemplar quotes. Codes are multi-label; frequencies count respondents. Response IDs refer to data/open_ended_responses.json.",
+ "questions": {
+  "most_helped": {
+   "prompt": "What aspect of the course most helped your learning?",
+   "codebook": {
+    "labs": "Live-coding labs / in-class coding / hands-on in-class activities",
+    "project": "Course project / semester project",
+    "homework": "Homework / assignments",
+    "instructor": "Instructor explanation, walkthroughs, demonstrations, teaching quality",
+    "structure": "Content structure, sequencing, flow, foundation-building",
+    "visualization": "Diagrams / visual representations of the pipeline"
+   },
+   "assignments": {
+    "H01": [
+     "project"
+    ],
+    "H02": [
+     "labs",
+     "visualization"
+    ],
+    "H03": [
+     "visualization",
+     "instructor"
+    ],
+    "H04": [
+     "homework",
+     "project"
+    ],
+    "H05": [
+     "labs"
+    ],
+    "H06": [
+     "labs",
+     "homework"
+    ],
+    "H07": [
+     "structure"
+    ],
+    "H08": [
+     "visualization"
+    ],
+    "H09": [
+     "labs"
+    ],
+    "H10": [
+     "labs"
+    ],
+    "H11": [
+     "project"
+    ],
+    "H12": [
+     "labs"
+    ],
+    "H13": [
+     "instructor",
+     "labs"
+    ],
+    "H14": [
+     "labs"
+    ],
+    "H15": [
+     "structure"
+    ],
+    "H16": [
+     "labs"
+    ],
+    "H17": [
+     "structure"
+    ],
+    "H18": [
+     "project"
+    ],
+    "H19": [
+     "labs"
+    ],
+    "H20": [
+     "labs",
+     "instructor"
+    ],
+    "H21": [
+     "labs"
+    ],
+    "H22": [
+     "labs"
+    ],
+    "H23": [
+     "labs"
+    ],
+    "H24": [
+     "instructor"
+    ],
+    "H25": [
+     "labs"
+    ],
+    "H26": [
+     "labs",
+     "structure"
+    ],
+    "H27": [
+     "labs"
+    ],
+    "H28": [
+     "labs"
+    ],
+    "H29": [
+     "labs",
+     "instructor"
+    ],
+    "H30": [
+     "instructor",
+     "structure",
+     "labs"
+    ]
+   }
+  },
+  "most_challenging": {
+   "prompt": "What aspect of the course was most challenging or least clear?",
+   "codebook": {
+    "attention_internals": "Attention / QKV / embeddings / positional encoding / stride (model internals & representation)",
+    "rag_agents": "RAG and agents (system integration)",
+    "project": "Course/final project or milestone",
+    "homework": "Homework difficulty or unclear/overwhelming instructions",
+    "labs_tooling": "Keeping up with in-class labs; unfamiliar tools/libraries; an unclear in-class activity",
+    "ml_background": "Lacking ML background; volume of ML concepts",
+    "interconnections": "Many interacting concepts at once felt confusing",
+    "pace": "Pace / time to absorb material"
+   },
+   "assignments": {
+    "C01": [
+     "attention_internals"
+    ],
+    "C02": [
+     "interconnections"
+    ],
+    "C03": [
+     "attention_internals"
+    ],
+    "C04": [
+     "project"
+    ],
+    "C05": [
+     "attention_internals"
+    ],
+    "C06": [
+     "attention_internals"
+    ],
+    "C07": [],
+    "C08": [
+     "rag_agents"
+    ],
+    "C09": [
+     "rag_agents"
+    ],
+    "C10": [
+     "rag_agents"
+    ],
+    "C11": [
+     "attention_internals"
+    ],
+    "C12": [
+     "labs_tooling"
+    ],
+    "C13": [
+     "labs_tooling"
+    ],
+    "C14": [
+     "labs_tooling",
+     "pace"
+    ],
+    "C15": [
+     "attention_internals"
+    ],
+    "C16": [
+     "homework"
+    ],
+    "C17": [
+     "homework"
+    ],
+    "C18": [
+     "attention_internals"
+    ],
+    "C19": [
+     "project"
+    ],
+    "C20": [
+     "project",
+     "homework"
+    ],
+    "C21": [
+     "project"
+    ],
+    "C22": [
+     "labs_tooling"
+    ],
+    "C23": [
+     "pace"
+    ],
+    "C24": [
+     "project"
+    ],
+    "C25": [
+     "ml_background"
+    ],
+    "C26": [
+     "project"
+    ]
+   }
+  },
+  "one_change": {
+   "prompt": "What is one change that would most improve this course in a future offering?",
+   "codebook": {
+    "clarity_instructions": "Clearer / less open-ended homework & project instructions; consolidate turn-in requirements; library/setup support",
+    "content_rebalance": "Add/rebalance content (other generative AI, more ML, more depth on specific topics)",
+    "more_labs": "More lab/hands-on/application time; dedicated lab portion",
+    "separate_sections": "Separate undergraduate and graduate sections (graduate found it too much review)",
+    "project_pacing": "Spread project requirements out; shorter, more frequent deadlines",
+    "slides": "Better explanation of slide diagrams for later review",
+    "group_activities": "Group/in-class activities less useful",
+    "logistics": "Logistics (e.g., use school lab machines)",
+    "none_praise": "No change / course well structured"
+   },
+   "assignments": {
+    "X01": [
+     "content_rebalance"
+    ],
+    "X02": [
+     "content_rebalance"
+    ],
+    "X03": [
+     "content_rebalance"
+    ],
+    "X04": [
+     "content_rebalance"
+    ],
+    "X05": [
+     "more_labs"
+    ],
+    "X06": [
+     "clarity_instructions"
+    ],
+    "X07": [
+     "clarity_instructions"
+    ],
+    "X08": [
+     "content_rebalance"
+    ],
+    "X09": [
+     "clarity_instructions"
+    ],
+    "X10": [
+     "more_labs"
+    ],
+    "X11": [
+     "logistics"
+    ],
+    "X12": [
+     "separate_sections"
+    ],
+    "X13": [
+     "clarity_instructions"
+    ],
+    "X14": [
+     "group_activities"
+    ],
+    "X15": [
+     "project_pacing"
+    ],
+    "X16": [
+     "none_praise"
+    ],
+    "X17": [
+     "slides"
+    ],
+    "X18": [
+     "none_praise"
+    ],
+    "X19": [
+     "none_praise"
+    ],
+    "X20": [
+     "clarity_instructions"
+    ],
+    "X21": [
+     "more_labs"
+    ],
+    "X22": [
+     "none_praise"
+    ]
+   }
+  },
+  "pipeline_debugger": {
+   "prompt": "Optional: If you remember the misconception-repair / Pipeline Debugger activity, what was useful about it, if anything?",
+   "codebook": {
+    "dont_remember": "Does not remember the activity / N/A",
+    "peer_collaboration": "Value from working with / learning from other students",
+    "misconception_correction": "Corrected a specific misconception",
+    "debugging": "Debugging practice / instructor feedback"
+   },
+   "assignments": {
+    "D01": [
+     "dont_remember"
+    ],
+    "D02": [
+     "peer_collaboration"
+    ],
+    "D03": [
+     "misconception_correction"
+    ],
+    "D04": [
+     "dont_remember"
+    ],
+    "D05": [
+     "peer_collaboration"
+    ],
+    "D06": [
+     "dont_remember"
+    ],
+    "D07": [
+     "dont_remember",
+     "debugging"
+    ],
+    "D08": [
+     "dont_remember"
+    ],
+    "D09": [
+     "debugging"
+    ]
+   }
+  }
+ },
+ "challenge_stage_assignments": {
+  "_about": "Stage assigned to each most_challenging response that names a pipeline stage (used for the challenge column of Figure 5).",
+  "C01": "Model internals",
+  "C03": "Model internals",
+  "C05": "Model internals",
+  "C06": "Model internals",
+  "C08": "System integration",
+  "C09": "System integration",
+  "C10": "System integration",
+  "C11": "Model internals",
+  "C15": "Representation",
+  "C18": "Representation"
+ },
+ "exemplar_quotes": {
+  "labs": [
+   "H02",
+   "H25"
+  ],
+  "instructor": [
+   "H03"
+  ],
+  "attention_internals": [
+   "C01",
+   "C18"
+  ],
+  "rag_agents": [
+   "C09"
+  ],
+  "project": [
+   "C21"
+  ],
+  "homework": [
+   "C17"
+  ],
+  "clarity_instructions": [
+   "X20"
+  ],
+  "separate_sections": [
+   "X12"
+  ],
+  "content_rebalance": [
+   "X08"
+  ],
+  "more_labs": [
+   "X05"
+  ],
+  "misconception_correction": [
+   "D03"
+  ],
+  "peer_collaboration": [
+   "D05"
+  ]
+ }
+}

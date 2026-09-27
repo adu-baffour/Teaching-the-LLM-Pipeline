@@ -1,0 +1,358 @@
+{
+ "most_helped": [
+  {
+   "response_id": "H01",
+   "text": "The project"
+  },
+  {
+   "response_id": "H02",
+   "text": "The labs really solidified the topics being discussed and made then easier to visualize"
+  },
+  {
+   "response_id": "H03",
+   "text": "In person diagrams the prof drew helped with visualizing the pipeline, which was better than just pictures in the lecture slides."
+  },
+  {
+   "response_id": "H04",
+   "text": "The assignments and semester project"
+  },
+  {
+   "response_id": "H05",
+   "text": "The live coding"
+  },
+  {
+   "response_id": "H06",
+   "text": "I think the love coding and labs and then following with a homework, allowed me to practice with you  and then test myself alone."
+  },
+  {
+   "response_id": "H07",
+   "text": "Overall workflow"
+  },
+  {
+   "response_id": "H08",
+   "text": "slide"
+  },
+  {
+   "response_id": "H09",
+   "text": "The class and the activities which we have in the class are the bonus."
+  },
+  {
+   "response_id": "H10",
+   "text": "The in lecture coding was greatly beneficial in understanding concepts."
+  },
+  {
+   "response_id": "H11",
+   "text": "The course project allowed me to combine many parts of what I learned during the course together cohesively."
+  },
+  {
+   "response_id": "H12",
+   "text": "The labs helped showing how to implement things, but not necessarily why or how they work under the hood."
+  },
+  {
+   "response_id": "H13",
+   "text": "Walking through math and code"
+  },
+  {
+   "response_id": "H14",
+   "text": "The live coding labs"
+  },
+  {
+   "response_id": "H15",
+   "text": "Whole LLM architecture"
+  },
+  {
+   "response_id": "H16",
+   "text": "I found the hands on lab to be the most useful learning too."
+  },
+  {
+   "response_id": "H17",
+   "text": "The initial parts the topics till lora fine-tuning"
+  },
+  {
+   "response_id": "H18",
+   "text": "Projects"
+  },
+  {
+   "response_id": "H19",
+   "text": "The labs definitely were the best portions to learn as we saw things in real time."
+  },
+  {
+   "response_id": "H20",
+   "text": "The lab walkthroughs provided a learning environment that made sure we understood the topics while also learning how to implement them."
+  },
+  {
+   "response_id": "H21",
+   "text": "The labs \n."
+  },
+  {
+   "response_id": "H22",
+   "text": "The live labs helped the most."
+  },
+  {
+   "response_id": "H23",
+   "text": "I really liked the in person activites and found them helpful to make sure that I understood what was going on"
+  },
+  {
+   "response_id": "H24",
+   "text": "The professor. He was of great assistance."
+  },
+  {
+   "response_id": "H25",
+   "text": "the labs or coding within google colab because it gave more hands of view of how everything worked rather than information on slides"
+  },
+  {
+   "response_id": "H26",
+   "text": "Theory+Lab"
+  },
+  {
+   "response_id": "H27",
+   "text": "In class labs"
+  },
+  {
+   "response_id": "H28",
+   "text": "The in class activities"
+  },
+  {
+   "response_id": "H29",
+   "text": "The coding lab exercises that were conducted through class time. I will also say this in my experience, but the walkthrough explanations + demonstrations really helped me understand and learn the concepts/topics that were covered in this course."
+  },
+  {
+   "response_id": "H30",
+   "text": "The flow of the content, the presentation of the content, and thorough comprehensive explanation/teaching of the content were amazing. Being able to build a strong foundation and build upon it with extensive explanation and practical application both in-person and solely with the assignments was great."
+  }
+ ],
+ "most_challenging": [
+  {
+   "response_id": "C01",
+   "text": "The QKV attention was pretty difficult and was hard to wrap my head around its specifics"
+  },
+  {
+   "response_id": "C02",
+   "text": "There were a lot of concepts that all interact, that got confusing"
+  },
+  {
+   "response_id": "C03",
+   "text": "qkv and attention heads"
+  },
+  {
+   "response_id": "C04",
+   "text": "milestone"
+  },
+  {
+   "response_id": "C05",
+   "text": "The hardest part was the attention lecture. The clearest was fine tuning."
+  },
+  {
+   "response_id": "C06",
+   "text": "Probably just the qkv stuff but I understand it nkw"
+  },
+  {
+   "response_id": "C07",
+   "text": "N/a"
+  },
+  {
+   "response_id": "C08",
+   "text": "RAG"
+  },
+  {
+   "response_id": "C09",
+   "text": "I think the most challegening for me was definitely the RAG systems, it just seems to be a period where  I often mismatch definitions or overall understandings."
+  },
+  {
+   "response_id": "C10",
+   "text": "The rag and agents part."
+  },
+  {
+   "response_id": "C11",
+   "text": "Attention"
+  },
+  {
+   "response_id": "C12",
+   "text": "The coding lab parts in the later sections."
+  },
+  {
+   "response_id": "C13",
+   "text": "The activity where we had to use an interactive website but it was not clear as to how to use and make sense of it."
+  },
+  {
+   "response_id": "C14",
+   "text": "Sometimes the in class labs were difficult to keep up with due to time constraints. Offering a separate lab portion of the class would help"
+  },
+  {
+   "response_id": "C15",
+   "text": "Stride"
+  },
+  {
+   "response_id": "C16",
+   "text": "The most challenging part was the homework, but I still understood how to do them."
+  },
+  {
+   "response_id": "C17",
+   "text": "The homework's despite liking them i felt the instructions were overwhelming i soend more time trying to organzie especially on the last one than i did getting to actually compare and test things. I feel i would rather haven gotten to mess around with more parameters to understand it better than to only need to do 1 and write so much about it."
+  },
+  {
+   "response_id": "C18",
+   "text": "The part that was the most challenging was embeddings and positional embeddings"
+  },
+  {
+   "response_id": "C19",
+   "text": "The most challenging aspect of the course was the final project as it implemented a lot of what we had learned in class."
+  },
+  {
+   "response_id": "C20",
+   "text": "The project was a challenge but good for learning. The least clear was the instructions for the homework assignments."
+  },
+  {
+   "response_id": "C21",
+   "text": "The most challenging part of the course was the project but that was due to the size of the project rather than the difficulty."
+  },
+  {
+   "response_id": "C22",
+   "text": "Lab completion was the most difficult because I was not familiar with the tools / libraries used."
+  },
+  {
+   "response_id": "C23",
+   "text": "Some course material needed additional time for the class to understand, which [the instructor] did fulfill by extending the days on specific topics."
+  },
+  {
+   "response_id": "C24",
+   "text": "Final project"
+  },
+  {
+   "response_id": "C25",
+   "text": "The ml concepts did not have an ml background and had to learn a lot"
+  },
+  {
+   "response_id": "C26",
+   "text": "The project, but it was fun to learn"
+  }
+ ],
+ "one_change": [
+  {
+   "response_id": "X01",
+   "text": "Remove agents and go more deep down with more depth in rag."
+  },
+  {
+   "response_id": "X02",
+   "text": "Slightly more in depth explanations of specific topics that may be overshadowed by those that \"umbrella\" it."
+  },
+  {
+   "response_id": "X03",
+   "text": "Ml topics"
+  },
+  {
+   "response_id": "X04",
+   "text": "More of the homework akin to hw2 and hw3"
+  },
+  {
+   "response_id": "X05",
+   "text": "Having a lab portion where we can focus on application"
+  },
+  {
+   "response_id": "X06",
+   "text": "Maybe clearer instructions on how certain things were supposed to work in the project"
+  },
+  {
+   "response_id": "X07",
+   "text": "Make clear fine tuning was a requirement from the first milestone."
+  },
+  {
+   "response_id": "X08",
+   "text": "Add some lectures on other types of generative AI besides LLMs."
+  },
+  {
+   "response_id": "X09",
+   "text": "The homework's. Are just alot multiple places where turn in and requirement's are outlined"
+  },
+  {
+   "response_id": "X10",
+   "text": "The labs because I think it's just opinion i guess I guess when you code the labs along with us and understand the concepts better rather than the prefix ones."
+  },
+  {
+   "response_id": "X11",
+   "text": "i dont want take a laptop to class.my laptop is heavy.use school lab"
+  },
+  {
+   "response_id": "X12",
+   "text": "Separate class for under/grad students. Felt too much of a review as a grad"
+  },
+  {
+   "response_id": "X13",
+   "text": "Some explanations on the python library components"
+  },
+  {
+   "response_id": "X14",
+   "text": "I think one thing I could change is that the in class activities/group activities were not that much helpful for my case."
+  },
+  {
+   "response_id": "X15",
+   "text": "The projects should be more spread out in what’s required and shorter due dates almost like the labs"
+  },
+  {
+   "response_id": "X16",
+   "text": "N/a"
+  },
+  {
+   "response_id": "X17",
+   "text": "I think the best possible change is to provide more of an explanation of the diagrams on the slides. We lightly explain then in class, but when reviewing them again later on, they can seem really confusing and convoluted"
+  },
+  {
+   "response_id": "X18",
+   "text": "I’m not sure what could change because besides having academic lectures the professor would discuss current relevant news in the industry that helped to connect our learning in the classroom to what was happening in the world."
+  },
+  {
+   "response_id": "X19",
+   "text": "n/-\n/a"
+  },
+  {
+   "response_id": "X20",
+   "text": "I would make the homework assignments a little less open ended as they allowed a lot of freedom on the students part so the responses were different but for me this resulted in subpar experiments as the parameters I picked did not work well together."
+  },
+  {
+   "response_id": "X21",
+   "text": "May be more hands on and real world problems"
+  },
+  {
+   "response_id": "X22",
+   "text": "I think the course was structured very well."
+  }
+ ],
+ "pipeline_debugger": [
+  {
+   "response_id": "D01",
+   "text": "I don’t remember"
+  },
+  {
+   "response_id": "D02",
+   "text": "It gave us the opportunity to think together about the topics"
+  },
+  {
+   "response_id": "D03",
+   "text": "It corrected some misconception i picked up, like with the steps thing, that i was initially confused on"
+  },
+  {
+   "response_id": "D04",
+   "text": "N/a"
+  },
+  {
+   "response_id": "D05",
+   "text": "Helped to work with other student to solve the problems and gain a better understanding from each other."
+  },
+  {
+   "response_id": "D06",
+   "text": "I don’t remember much, I’m sorry"
+  },
+  {
+   "response_id": "D07",
+   "text": "I don’t remember. I think it was the professor feedback."
+  },
+  {
+   "response_id": "D08",
+   "text": "I don’t know"
+  },
+  {
+   "response_id": "D09",
+   "text": "Debugging"
+  }
+ ]
+}

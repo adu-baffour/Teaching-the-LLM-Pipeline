@@ -1,0 +1,12 @@
+item,label,ug_median,gr_median,cliffs_delta,ci_low,ci_high,p_mannwhitney
+core_1,Understood how LLM-pipeline parts fit together,3.0,3.0,0.039,-0.099,0.205,0.6281997662616309
+core_2,Earlier topics prepared me logically,3.0,3.0,-0.099,-0.286,0.043,0.2675767181647829
+core_3,Clearer understanding of tokenization…integration,3.0,3.0,0.087,0.0,0.217,0.18195320565177178
+core_4,Confidence explaining GPT-style systems,3.0,3.0,-0.095,-0.238,0.0,0.142924683359766
+core_5,Confidence evaluating LLM behavior (not just using),3.0,3.0,-0.056,-0.242,0.126,0.578524159681919
+core_6,Pace appropriate for difficulty,3.0,3.0,0.03,-0.241,0.298,0.835796405813078
+core_7,Workload appropriate for 3-credit course,3.0,3.0,0.106,-0.122,0.344,0.4018071706415459
+core_8,Quizzes/HW/project connected concepts,3.0,3.0,0.035,-0.147,0.217,0.7324473366670212
+core_9,Live coding labs aided understanding,3.0,3.0,0.075,-0.155,0.3,0.5383140073765192
+core_10,Expectations for my level were clear,3.0,3.0,-0.152,-0.381,0.078,0.190868503258621
+core_11,Shared UG/grad format worked well,3.0,3.0,0.087,-0.145,0.308,0.47267065984738327

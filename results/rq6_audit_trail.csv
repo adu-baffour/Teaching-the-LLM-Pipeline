@@ -1,0 +1,90 @@
+question,response_id,codes,pipeline_stage,response
+most_helped,H01,project,,The project
+most_helped,H02,labs; visualization,,The labs really solidified the topics being discussed and made then easier to visualize
+most_helped,H03,visualization; instructor,,"In person diagrams the prof drew helped with visualizing the pipeline, which was better than just pictures in the lecture slides."
+most_helped,H04,homework; project,,The assignments and semester project
+most_helped,H05,labs,,The live coding
+most_helped,H06,labs; homework,,"I think the love coding and labs and then following with a homework, allowed me to practice with you  and then test myself alone."
+most_helped,H07,structure,,Overall workflow
+most_helped,H08,visualization,,slide
+most_helped,H09,labs,,The class and the activities which we have in the class are the bonus.
+most_helped,H10,labs,,The in lecture coding was greatly beneficial in understanding concepts.
+most_helped,H11,project,,The course project allowed me to combine many parts of what I learned during the course together cohesively.
+most_helped,H12,labs,,"The labs helped showing how to implement things, but not necessarily why or how they work under the hood."
+most_helped,H13,instructor; labs,,Walking through math and code
+most_helped,H14,labs,,The live coding labs
+most_helped,H15,structure,,Whole LLM architecture
+most_helped,H16,labs,,I found the hands on lab to be the most useful learning too.
+most_helped,H17,structure,,The initial parts the topics till lora fine-tuning
+most_helped,H18,project,,Projects
+most_helped,H19,labs,,The labs definitely were the best portions to learn as we saw things in real time.
+most_helped,H20,labs; instructor,,The lab walkthroughs provided a learning environment that made sure we understood the topics while also learning how to implement them.
+most_helped,H21,labs,,"The labs 
+."
+most_helped,H22,labs,,The live labs helped the most.
+most_helped,H23,labs,,I really liked the in person activites and found them helpful to make sure that I understood what was going on
+most_helped,H24,instructor,,The professor. He was of great assistance.
+most_helped,H25,labs,,the labs or coding within google colab because it gave more hands of view of how everything worked rather than information on slides
+most_helped,H26,labs; structure,,Theory+Lab
+most_helped,H27,labs,,In class labs
+most_helped,H28,labs,,The in class activities
+most_helped,H29,labs; instructor,,"The coding lab exercises that were conducted through class time. I will also say this in my experience, but the walkthrough explanations + demonstrations really helped me understand and learn the concepts/topics that were covered in this course."
+most_helped,H30,instructor; structure; labs,,"The flow of the content, the presentation of the content, and thorough comprehensive explanation/teaching of the content were amazing. Being able to build a strong foundation and build upon it with extensive explanation and practical application both in-person and solely with the assignments was great."
+most_challenging,C01,attention_internals,Model internals,The QKV attention was pretty difficult and was hard to wrap my head around its specifics
+most_challenging,C02,interconnections,,"There were a lot of concepts that all interact, that got confusing"
+most_challenging,C03,attention_internals,Model internals,qkv and attention heads
+most_challenging,C04,project,,milestone
+most_challenging,C05,attention_internals,Model internals,The hardest part was the attention lecture. The clearest was fine tuning.
+most_challenging,C06,attention_internals,Model internals,Probably just the qkv stuff but I understand it nkw
+most_challenging,C07,(none),,N/a
+most_challenging,C08,rag_agents,System integration,RAG
+most_challenging,C09,rag_agents,System integration,"I think the most challegening for me was definitely the RAG systems, it just seems to be a period where  I often mismatch definitions or overall understandings."
+most_challenging,C10,rag_agents,System integration,The rag and agents part.
+most_challenging,C11,attention_internals,Model internals,Attention
+most_challenging,C12,labs_tooling,,The coding lab parts in the later sections.
+most_challenging,C13,labs_tooling,,The activity where we had to use an interactive website but it was not clear as to how to use and make sense of it.
+most_challenging,C14,labs_tooling; pace,,Sometimes the in class labs were difficult to keep up with due to time constraints. Offering a separate lab portion of the class would help
+most_challenging,C15,attention_internals,Representation,Stride
+most_challenging,C16,homework,,"The most challenging part was the homework, but I still understood how to do them."
+most_challenging,C17,homework,,The homework's despite liking them i felt the instructions were overwhelming i soend more time trying to organzie especially on the last one than i did getting to actually compare and test things. I feel i would rather haven gotten to mess around with more parameters to understand it better than to only need to do 1 and write so much about it.
+most_challenging,C18,attention_internals,Representation,The part that was the most challenging was embeddings and positional embeddings
+most_challenging,C19,project,,The most challenging aspect of the course was the final project as it implemented a lot of what we had learned in class.
+most_challenging,C20,project; homework,,The project was a challenge but good for learning. The least clear was the instructions for the homework assignments.
+most_challenging,C21,project,,The most challenging part of the course was the project but that was due to the size of the project rather than the difficulty.
+most_challenging,C22,labs_tooling,,Lab completion was the most difficult because I was not familiar with the tools / libraries used.
+most_challenging,C23,pace,,"Some course material needed additional time for the class to understand, which [the instructor] did fulfill by extending the days on specific topics."
+most_challenging,C24,project,,Final project
+most_challenging,C25,ml_background,,The ml concepts did not have an ml background and had to learn a lot
+most_challenging,C26,project,,"The project, but it was fun to learn"
+one_change,X01,content_rebalance,,Remove agents and go more deep down with more depth in rag.
+one_change,X02,content_rebalance,,"Slightly more in depth explanations of specific topics that may be overshadowed by those that ""umbrella"" it."
+one_change,X03,content_rebalance,,Ml topics
+one_change,X04,content_rebalance,,More of the homework akin to hw2 and hw3
+one_change,X05,more_labs,,Having a lab portion where we can focus on application
+one_change,X06,clarity_instructions,,Maybe clearer instructions on how certain things were supposed to work in the project
+one_change,X07,clarity_instructions,,Make clear fine tuning was a requirement from the first milestone.
+one_change,X08,content_rebalance,,Add some lectures on other types of generative AI besides LLMs.
+one_change,X09,clarity_instructions,,The homework's. Are just alot multiple places where turn in and requirement's are outlined
+one_change,X10,more_labs,,The labs because I think it's just opinion i guess I guess when you code the labs along with us and understand the concepts better rather than the prefix ones.
+one_change,X11,logistics,,i dont want take a laptop to class.my laptop is heavy.use school lab
+one_change,X12,separate_sections,,Separate class for under/grad students. Felt too much of a review as a grad
+one_change,X13,clarity_instructions,,Some explanations on the python library components
+one_change,X14,group_activities,,I think one thing I could change is that the in class activities/group activities were not that much helpful for my case.
+one_change,X15,project_pacing,,The projects should be more spread out in what’s required and shorter due dates almost like the labs
+one_change,X16,none_praise,,N/a
+one_change,X17,slides,,"I think the best possible change is to provide more of an explanation of the diagrams on the slides. We lightly explain then in class, but when reviewing them again later on, they can seem really confusing and convoluted"
+one_change,X18,none_praise,,I’m not sure what could change because besides having academic lectures the professor would discuss current relevant news in the industry that helped to connect our learning in the classroom to what was happening in the world.
+one_change,X19,none_praise,,"n/-
+/a"
+one_change,X20,clarity_instructions,,I would make the homework assignments a little less open ended as they allowed a lot of freedom on the students part so the responses were different but for me this resulted in subpar experiments as the parameters I picked did not work well together.
+one_change,X21,more_labs,,May be more hands on and real world problems
+one_change,X22,none_praise,,I think the course was structured very well.
+pipeline_debugger,D01,dont_remember,,I don’t remember
+pipeline_debugger,D02,peer_collaboration,,It gave us the opportunity to think together about the topics
+pipeline_debugger,D03,misconception_correction,,"It corrected some misconception i picked up, like with the steps thing, that i was initially confused on"
+pipeline_debugger,D04,dont_remember,,N/a
+pipeline_debugger,D05,peer_collaboration,,Helped to work with other student to solve the problems and gain a better understanding from each other.
+pipeline_debugger,D06,dont_remember,,"I don’t remember much, I’m sorry"
+pipeline_debugger,D07,dont_remember; debugging,,I don’t remember. I think it was the professor feedback.
+pipeline_debugger,D08,dont_remember,,I don’t know
+pipeline_debugger,D09,debugging,,Debugging

@@ -1,0 +1,4 @@
+scale,n_complete,k_items,alpha,alpha_ci_low,alpha_ci_high,omega_total
+11 core course-experience items,42,11,0.7,0.49,0.79,0.72
+5 end-of-course ('now') knowledge ratings,41,5,0.67,0.43,0.79,0.68
+5 retrospective 'before' knowledge ratings,43,5,0.77,0.55,0.87,0.79

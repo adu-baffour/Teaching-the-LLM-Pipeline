@@ -1,0 +1,6 @@
+stage,now_mean,challenge_mentions,pooled_assessment_median_pct,assessments_pooled,difficulty_perceived,difficulty_qualitative,difficulty_objective
+Representation,2.91,2,100.0,"quiz_representation, hw1",0.0,0.4,0.0
+Model internals,2.67,5,97.0,hw2,0.6,1.0,0.86
+Training & evaluation,2.79,0,96.5,"quiz_training, hw2",0.3,0.0,1.0
+Adaptation,2.69,0,100.0,"quiz_adaptation, hw3",0.55,0.0,0.0
+System integration,2.51,3,97.0,hw3,1.0,0.6,0.86

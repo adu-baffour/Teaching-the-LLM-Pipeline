@@ -1,0 +1,22 @@
+{
+  "title": "Teaching Large Language Models: Code, Data, and Materials",
+  "upload_type": "software",
+  "description": "<p>Reproducibility package for Baffour (2026), <em>Teaching Large Language Models: A Pipeline-Centered Course Design and Mixed-Methods Evidence From a Cross-Listed Undergraduate/Graduate Offering</em>, Journal of Information Technology Education: Innovations in Practice.</p><p>Contains the de-identified survey and coursework data, the Python analysis code that regenerates every table, figure, and statistic in the paper, and reusable course and evaluation materials: the survey instrument, qualitative codebook, stage-to-assessment mapping, difficulty-matrix protocol, and the Pipeline Debugger activity template.</p>",
+  "creators": [
+    {
+      "name": "Baffour, Adu A.",
+      "affiliation": "University of Missouri–Kansas City"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "large language models",
+    "generative AI",
+    "computing education",
+    "course design",
+    "cross-listed courses",
+    "mixed methods",
+    "reproducibility"
+  ],
+  "notes": "Code is licensed under MIT. Data and documentation are licensed under CC BY 4.0."
+}
