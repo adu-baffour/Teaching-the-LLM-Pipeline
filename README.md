@@ -4,7 +4,9 @@ Reproducibility package for:
 
 > Baffour, A. A. (2026). Teaching large language models: A pipeline-centered course design and mixed-methods evidence from a cross-listed undergraduate/graduate offering. *Journal of Information Technology Education: Innovations in Practice*. (In press)
 
-**Archived copy:** Zenodo, https://doi.org/[DOI assigned at first release]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22994928.svg)](https://doi.org/10.5281/zenodo.22994928)
+
+**Archived copy:** Zenodo, https://doi.org/10.5281/zenodo.22994928
 
 The repository contains the de-identified data, the analysis code that regenerates every table, figure, and statistic in the paper, and the reusable course and evaluation materials (survey instrument, qualitative codebook, difficulty-matrix protocol, and Pipeline Debugger template).
 
