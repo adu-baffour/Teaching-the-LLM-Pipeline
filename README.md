@@ -74,7 +74,7 @@ All bootstrap confidence intervals use a fixed seed (`analysis/config.py`), so t
 
 ## How to cite
 
-Please cite the paper. To cite this package directly, use the Zenodo DOI above; GitHub's "Cite this repository" button reads `CITATION.cff`.
+Please cite the paper. To cite this package directly, use the Zenodo DOI above or GitHub's "Cite this repository" button.
 
 ## License
 
