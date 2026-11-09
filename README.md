@@ -87,7 +87,7 @@ If you use this code, data, or teaching materials, please cite:
   year    = {2026},
   doi     = {10.28945/5899}
 }
-
+```
 To cite this package directly, use the Zenodo DOI above or GitHub's "Cite this repository" button.
 
 ## License
