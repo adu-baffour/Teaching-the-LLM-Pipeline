@@ -2,7 +2,7 @@
 
 Reproducibility package for:
 
-> Baffour, A. A. (2026). Teaching large language models: A pipeline-centered course design and mixed-methods evidence from a cross-listed undergraduate/graduate offering. *Journal of Information Technology Education: Innovations in Practice*. (In press)
+> Baffour, A. A. (2026). Teaching large language models: A pipeline-centered course design and mixed-methods evidence from a cross-listed undergraduate/graduate offering. Journal of Information Technology Education: Innovations in Practice, 25, 45. https://doi.org/10.28945/5899
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22994928.svg)](https://doi.org/10.5281/zenodo.22994928)
 
