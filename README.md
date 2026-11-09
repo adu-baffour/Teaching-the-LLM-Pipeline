@@ -88,7 +88,6 @@ If you use this code, data, or teaching materials, please cite:
   doi     = {10.28945/5899}
 }
 ```
-To cite this package directly, use the Zenodo DOI above or GitHub's "Cite this repository" button.
 
 ## License
 
