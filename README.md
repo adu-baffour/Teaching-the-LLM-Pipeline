@@ -73,6 +73,11 @@ All bootstrap confidence intervals use a fixed seed (`analysis/config.py`), so t
 - **Raw data.** The raw survey export and gradebook contain identifiers and are not distributed. `data/README.md` documents every cleaning rule applied to them.
 
 ## How to cite
+## Citation
+
+If you use this code, data, or teaching materials, please cite:
+
+```bibtex
 @article{baffour2026teaching,
   author  = {Baffour, Adu A.},
   title   = {Teaching Large Language Models: A Pipeline-Centered Course Design and Mixed-Methods Evidence From a Cross-Listed Undergraduate/Graduate Offering},
@@ -80,8 +85,7 @@ All bootstrap confidence intervals use a fixed seed (`analysis/config.py`), so t
   volume  = {25},
   pages   = {45},
   year    = {2026},
-  doi     = {10.28945/5899},
-  url     = {https://doi.org/10.28945/5899}
+  doi     = {10.28945/5899}
 }
 
 To cite this package directly, use the Zenodo DOI above or GitHub's "Cite this repository" button.
